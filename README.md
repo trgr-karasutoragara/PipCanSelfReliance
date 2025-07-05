@@ -37,13 +37,13 @@ Inside the Python script, the line install_requirements("requirements_pip.txt") 
 The installation will start automatically, and you will see the progress on your screen. When it's finished, a log file named pip_install.log will be created.
 
 ## Sample
-https://github.com/trgr-karasutoragara/PipCanSelfReliance/blob/main/pip_install.log
-
-https://github.com/trgr-karasutoragara/PipCanSelfReliance/blob/main/pip_install2.log
-
 https://github.com/trgr-karasutoragara/PipCanSelfReliance/blob/main/requirements.txt
 
 https://github.com/trgr-karasutoragara/PipCanSelfReliance/blob/main/requirements_myenv.txt
+
+https://github.com/trgr-karasutoragara/PipCanSelfReliance/blob/main/pip_install.log
+
+https://github.com/trgr-karasutoragara/PipCanSelfReliance/blob/main/pip_install2.log
 
 ## What This Script Solves
 No More Commands: You don't need to remember commands like pip install -r ....
