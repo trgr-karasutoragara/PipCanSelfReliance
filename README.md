@@ -1,7 +1,6 @@
-[![MIT](https://img.shields.io/github/license/trgr-karasutoragara/PipCanSelfReliance)](https://github.com/trgr-karasutoragara/PipCanSelfReliance)
-[![Stars](https://img.shields.io/github/stars/trgr-karasutoragara/PipCanSelfReliance?style=social)](https://github.com/trgr-karasutoragara/PipCanSelfReliance/stargazers)
+![MIT](https://img.shields.io/github/license/trgr-karasutoragara/PipCanSelfReliance)
+![Stars](https://img.shields.io/github/stars/trgr-karasutoragara/PipCanSelfReliance?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/trgr-karasutoragara/PipCanSelfReliance)
-
 
 <br>
 
